@@ -13,7 +13,7 @@
 
 
 [![Linkedin:  Chandrahas Minajigi](https://img.shields.io/badge/-chandrahasminajigi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chandrahas-minajigi-b986b61aa/)](https://www.linkedin.com/in/chandrahas-minajigi-b986b61aa/)
-
+![](https://komarev.com/ghpvc/?username=chandrahasminajigi&color=green)
 
 
 - 🔭 **I’m currently working and exploring the areas of Computer Vision.**
